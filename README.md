@@ -1,4 +1,4 @@
-Cma dice:# Instalacion
+Instalacion
 
 desgargar el repositorio
 
